@@ -1,4 +1,4 @@
-# Hi, I'm Semeka
+# Hi there 👋
 Machine Learning Engineer from Russia
 
 ### ⚙️ Tech stack
