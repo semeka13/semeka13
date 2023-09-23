@@ -54,6 +54,7 @@
 
 ### 🎓 Education
 * [Yandex.Lyceum](https://yandexlyceum.ru) (2019 - 2021)
+* [HSE CS AMI]([https://yandexlyceum.ru](https://www.hse.ru/ba/ami/)) (2022 - 2026)
 
 ### 🏆 Competition Background
 * 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021
