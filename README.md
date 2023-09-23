@@ -54,13 +54,20 @@
 
 ### 🎓 Education
 * [Yandex.Lyceum](https://yandexlyceum.ru) (2019 - 2021)
-* [HSE CS AMI]([https://yandexlyceum.ru](https://www.hse.ru/ba/ami/)) (2022 - 2026)
+* [HSE CS AMI](https://www.hse.ru/ba/ami/) (2022 - 2026)
 
 ### 🏆 Competition Background
 * 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021
 * 11/50 [NTI BD&ML 2020-2021](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
 * 🥈7/50 [NTI AI 2021-2022](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/iskusstvennyy-intellekt/)
 * 🥇1/63 [NTI BD&ML 2021-2022](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
+
+### Work
+* Freelance - DL Engineer (jun 2020 - dec 2021)
+* [CIAN](https://www.cian.ru) - CV Engineer (jan 2022 - jun 2022)
+* key.ae - DL Engineer (jun 2022 - dec 2022)
+* [Qlan](http://qlan.tech) - CEO (jan 2023 - cur)
+
 
 ### Hobbies
 * 🏄‍♂️ Surfing
