@@ -58,12 +58,6 @@
 * 🥈7/50 [NTI AI 2021-2022](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/iskusstvennyy-intellekt/)
 * 🥇1/63 [NTI BD&ML 2021-2022](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
 
-### Work
-* Freelance - DL Engineer (jun 2020 - dec 2021)
-* [CIAN](https://www.cian.ru) - CV Engineer (jan 2022 - jun 2022)
-* key.ae - DL Engineer (jun 2022 - dec 2022)
-* [Qlan](http://qlan.tech) - CEO (jan 2023 - cur)
-
 
 ### Hobbies
 * 🏄‍♂️ Surfing
