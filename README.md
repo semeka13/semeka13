@@ -46,10 +46,6 @@
   <a href="https://git-scm.com/doc" target="_blank"> 
     <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="android" width="40" height="40"/>
   </a>
-  
-  <a href="https://ru.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
-    <img src="https://shwanoff.ru/wp-content/uploads/2018/06/c-plus-plus-logo.png" alt="android" width="40" height="40"/>
-  </a>
 </p>
 
 ### 🎓 Education
